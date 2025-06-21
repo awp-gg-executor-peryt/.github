@@ -1,6 +1,6 @@
 ### Introducing **AWP.GG Executor**—the keyless, lightning-fast Lua injector that combines clean design with stealth performance. 🚀
 
-[![Download Executor](https://img.shields.io/badge/Download-Executor-blueviolet)](https://roblotools.github.io/executors/awp-gg/)
+[![Download Executor](https://img.shields.io/badge/Download-Executor-blueviolet)](https://domain.com)
 
 ---
 
